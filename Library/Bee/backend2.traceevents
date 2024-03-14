@@ -1,0 +1,392 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1710129440997508, "dur":64, "ph":"X", "name": "IPC_Client_InitializeAndConnectToParent",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1710129440997664, "dur":40230, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1710129441037908, "dur":266, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1710129441038235, "dur":52, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1710129441038288, "dur":898, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1710129441039391, "dur":78, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":0, "ts":1710129441039531, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/level0" }}
+,{ "pid":12345, "tid":0, "ts":1710129441039629, "dur":63, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/level10" }}
+,{ "pid":12345, "tid":0, "ts":1710129441039697, "dur":63, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/level2" }}
+,{ "pid":12345, "tid":0, "ts":1710129441039819, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/level4" }}
+,{ "pid":12345, "tid":0, "ts":1710129441039960, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/level7" }}
+,{ "pid":12345, "tid":0, "ts":1710129441040095, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/resources.assets" }}
+,{ "pid":12345, "tid":0, "ts":1710129441040478, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":0, "ts":1710129441041142, "dur":133, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/sharedassets4.assets" }}
+,{ "pid":12345, "tid":0, "ts":1710129441041283, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/sharedassets4.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1710129441041643, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/sharedassets5.resource" }}
+,{ "pid":12345, "tid":0, "ts":1710129441041831, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/sharedassets7.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1710129441042473, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1710129441042611, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1710129441043119, "dur":63, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1710129441043450, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1710129441044203, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1710129441044434, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1710129441044703, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1710129441044835, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1710129441045101, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1710129441045161, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1710129441045409, "dur":62, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1710129441045557, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":0, "ts":1710129441045699, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/Unity.RenderPipelines.Universal.Config.Runtime.dll" }}
+,{ "pid":12345, "tid":0, "ts":1710129441046126, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":0, "ts":1710129441046296, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/Unity.2D.Tilemap.Extras.dll" }}
+,{ "pid":12345, "tid":0, "ts":1710129441046404, "dur":80, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/Unity.InternalAPIEngineBridge.001.dll" }}
+,{ "pid":12345, "tid":0, "ts":1710129441046491, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":0, "ts":1710129441047064, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":0, "ts":1710129441047228, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":0, "ts":1710129441047313, "dur":62, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":0, "ts":1710129441047446, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":0, "ts":1710129441047595, "dur":61, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":0, "ts":1710129441047758, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":0, "ts":1710129441048233, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":0, "ts":1710129441048406, "dur":71, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/hayoo/Desktop/test5/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":0, "ts":1710129441048777, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/hayoo/Desktop/test5/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":0, "ts":1710129441048889, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/hayoo/Desktop/test5/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":0, "ts":1710129441049384, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/hayoo/Desktop/test5/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":0, "ts":1710129441039283, "dur":10154, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1710129441049439, "dur":6107192, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1710129447156633, "dur":232, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1710129447156865, "dur":54, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1710129447156954, "dur":66, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1710129447157234, "dur":6826, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1710129441039403, "dur":10046, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1710129441049453, "dur":11780, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1710129441081763, "dur":1726, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":1, "ts":1710129441083498, "dur":357, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1710129441083904, "dur":4420, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":1, "ts":1710129441088328, "dur":275, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":1, "ts":1710129441089224, "dur":403, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Playerdc9d777b-inputdata.json" }}
+,{ "pid":12345, "tid":1, "ts":1710129441083494, "dur":6770, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1710129441093896, "dur":133, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1710129441102479, "dur":375499, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1710129441498021, "dur":319, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1710129441498019, "dur":323, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1710129441498386, "dur":2186, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1710129441500577, "dur":5656056, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1710129441039474, "dur":9988, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1710129441051044, "dur":761, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.15f1\\Editor\\Data\\Tools\\BuildPipeline\\ScriptCompilationBuildProgram.Data.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710129441049467, "dur":3112, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1710129441052579, "dur":8687, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1710129441061267, "dur":232, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/hayoo/Desktop/test5/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":2, "ts":1710129441064408, "dur":5370, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":2, "ts":1710129441069944, "dur":240, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/hayoo/Desktop/test5/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1710129441071150, "dur":2747, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1710129441074026, "dur":321, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/hayoo/Desktop/test5/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1710129441074421, "dur":3373, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1710129441077945, "dur":434, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/hayoo/Desktop/test5/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1710129441078911, "dur":2765, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1710129441081802, "dur":180, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.15f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1710129441081795, "dur":189, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/hayoo/Desktop/test5/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1710129441082131, "dur":3332, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1710129441085604, "dur":216, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.15f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":2, "ts":1710129441085597, "dur":225, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/hayoo/Desktop/test5/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1710129441086449, "dur":4098, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1710129441090724, "dur":264, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.15f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710129441090704, "dur":286, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/hayoo/Desktop/test5/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710129441091198, "dur":19508, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710129441110852, "dur":11093, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710129441122232, "dur":5763, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710129441128152, "dur":5154, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/Unity.RenderPipelines.Universal.Shaders.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710129441133488, "dur":5899, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710129441139533, "dur":6532, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/Unity.RenderPipelines.Universal.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710129441146209, "dur":11145, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710129441157555, "dur":8851, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710129441166598, "dur":62, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1710129441166666, "dur":4468, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710129441171268, "dur":5408, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710129441176838, "dur":5166, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710129441182189, "dur":5043, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710129441187379, "dur":11022, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710129441198544, "dur":5284, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710129441203997, "dur":4416, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710129441208564, "dur":6622, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710129441215351, "dur":4008, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710129441219515, "dur":4794, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710129441224547, "dur":5174, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/sharedassets7.assets" }}
+,{ "pid":12345, "tid":2, "ts":1710129441229851, "dur":6798, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/sharedassets5.assets" }}
+,{ "pid":12345, "tid":2, "ts":1710129441246698, "dur":961, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1710129441236835, "dur":11206, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/sharedassets3.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1710129441248186, "dur":131, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1710129441248321, "dur":8058, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":2, "ts":1710129441256513, "dur":6035, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":2, "ts":1710129441265479, "dur":7399, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":2, "ts":1710129441274269, "dur":43814, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1710129441318211, "dur":5838433, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1710129441039531, "dur":9945, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1710129441049480, "dur":2462, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1710129441051943, "dur":2091, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1710129441054035, "dur":7314, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1710129441061369, "dur":324, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.15f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":3, "ts":1710129441061350, "dur":345, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/hayoo/Desktop/test5/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1710129441082427, "dur":74, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1710129441082536, "dur":3788, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1710129441086447, "dur":239, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/hayoo/Desktop/test5/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1710129441086826, "dur":6467, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1710129441096208, "dur":13778, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710129441110130, "dur":10516, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710129441120844, "dur":5970, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710129441127002, "dur":5746, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/Unity.Collections.LowLevel.ILSupport.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710129441132955, "dur":5723, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/Unity.InternalAPIEngineBridge.001.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710129441138812, "dur":8553, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710129441147537, "dur":3509, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710129441151461, "dur":4773, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710129441156371, "dur":4378, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710129441160924, "dur":5366, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710129441166424, "dur":4542, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710129441171197, "dur":8094, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710129441179446, "dur":9750, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710129441189329, "dur":9003, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710129441198540, "dur":6649, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710129441205381, "dur":4223, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710129441209825, "dur":7095, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710129441217988, "dur":137, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1710129441218131, "dur":4575, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710129441222838, "dur":3423, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/sharedassets8.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1710129441226381, "dur":4680, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/sharedassets6.assets" }}
+,{ "pid":12345, "tid":3, "ts":1710129441231426, "dur":7684, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/sharedassets4.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1710129441245710, "dur":1720, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1710129441239264, "dur":8443, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":3, "ts":1710129441247863, "dur":352, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1710129441248222, "dur":12942, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":3, "ts":1710129441261344, "dur":885, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1710129441262236, "dur":15419, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":3, "ts":1710129441277961, "dur":19081, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/level8" }}
+,{ "pid":12345, "tid":3, "ts":1710129441297355, "dur":9717, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/level4" }}
+,{ "pid":12345, "tid":3, "ts":1710129441307611, "dur":5848955, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1710129441039595, "dur":9893, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1710129441049492, "dur":2480, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1710129441051973, "dur":2043, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1710129441054017, "dur":7242, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1710129441061263, "dur":263, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/hayoo/Desktop/test5/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":4, "ts":1710129441080265, "dur":102, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1710129441080414, "dur":3380, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":4, "ts":1710129441083907, "dur":214, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/hayoo/Desktop/test5/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1710129441084786, "dur":2811, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1710129441087713, "dur":185, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/hayoo/Desktop/test5/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1710129441088637, "dur":3639, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1710129441092403, "dur":232, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":4, "ts":1710129441094353, "dur":6630, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":4, "ts":1710129441108092, "dur":116, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1710129441101519, "dur":6715, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710129441108425, "dur":4465, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710129441113072, "dur":5059, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710129441118288, "dur":3525, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710129441121970, "dur":5192, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710129441127687, "dur":4514, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710129441132378, "dur":6630, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710129441139191, "dur":4928, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710129441144394, "dur":4278, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710129441148879, "dur":4573, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710129441153597, "dur":4482, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710129441158257, "dur":4301, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710129441162743, "dur":3867, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710129441166752, "dur":3908, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710129441170797, "dur":5272, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710129441176209, "dur":4563, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710129441181068, "dur":2637, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710129441183853, "dur":6503, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710129441199662, "dur":165, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1710129441190553, "dur":9328, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710129441205691, "dur":95, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1710129441200032, "dur":5775, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710129441206046, "dur":3599, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710129441209907, "dur":4634, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710129441214699, "dur":4033, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710129441218890, "dur":3858, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710129441226600, "dur":122, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1710129441222936, "dur":3856, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/sharedassets8.assets" }}
+,{ "pid":12345, "tid":4, "ts":1710129441226977, "dur":9082, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/sharedassets5.resource" }}
+,{ "pid":12345, "tid":4, "ts":1710129441244027, "dur":205, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1710129441236251, "dur":8020, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/sharedassets3.resource" }}
+,{ "pid":12345, "tid":4, "ts":1710129441247272, "dur":415, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1710129441244465, "dur":3265, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/sharedassets2.resource" }}
+,{ "pid":12345, "tid":4, "ts":1710129441248141, "dur":114, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1710129441248259, "dur":8078, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/sharedassets10.resource" }}
+,{ "pid":12345, "tid":4, "ts":1710129441275943, "dur":56, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1710129441256538, "dur":19482, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1710129441276181, "dur":11099, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/level9" }}
+,{ "pid":12345, "tid":4, "ts":1710129441296647, "dur":65, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1710129441287429, "dur":9325, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/level7" }}
+,{ "pid":12345, "tid":4, "ts":1710129441301251, "dur":813, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1710129441297084, "dur":5047, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/level5" }}
+,{ "pid":12345, "tid":4, "ts":1710129441302301, "dur":3352, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/level1" }}
+,{ "pid":12345, "tid":4, "ts":1710129441305809, "dur":5744, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":4, "ts":1710129441311656, "dur":5844965, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1710129441039648, "dur":9884, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1710129441049536, "dur":2405, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1710129441051942, "dur":2102, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1710129441054044, "dur":7212, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1710129441061294, "dur":396, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.15f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":5, "ts":1710129441061263, "dur":429, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/hayoo/Desktop/test5/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":5, "ts":1710129441085493, "dur":2819, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":5, "ts":1710129441088433, "dur":196, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.15f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710129441088429, "dur":202, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/hayoo/Desktop/test5/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710129441088990, "dur":4387, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710129441094380, "dur":8045, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710129441102590, "dur":7224, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710129441109996, "dur":4940, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710129441115137, "dur":3846, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710129441119123, "dur":5568, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710129441124850, "dur":5400, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710129441130411, "dur":6362, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710129441137030, "dur":2751, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/Unity.2D.Tilemap.Extras.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710129441139936, "dur":4833, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710129441145013, "dur":4492, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/Unity.Collections.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710129441149671, "dur":5794, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/Unity.2D.IK.Runtime.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710129441155618, "dur":3808, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710129441163503, "dur":362, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1710129441159633, "dur":4261, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710129441164118, "dur":3816, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710129441168095, "dur":4857, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710129441173111, "dur":5468, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710129441178877, "dur":102, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1710129441178986, "dur":4040, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710129441183213, "dur":7148, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710129441198949, "dur":58, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1710129441190548, "dur":8510, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710129441204963, "dur":54, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1710129441199218, "dur":5941, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710129441206448, "dur":213, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710129441206725, "dur":5618, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710129441212512, "dur":77, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1710129441212598, "dur":4227, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710129441217006, "dur":2883, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710129441220090, "dur":4113, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710129441228286, "dur":50, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1710129441224394, "dur":3972, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/sharedassets7.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1710129441235431, "dur":54, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1710129441228531, "dur":6989, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/sharedassets5.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1710129441235671, "dur":126, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1710129441246137, "dur":1329, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1710129441235804, "dur":12144, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/sharedassets4.assets" }}
+,{ "pid":12345, "tid":5, "ts":1710129441248117, "dur":112, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1710129441248234, "dur":5628, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/sharedassets10.assets" }}
+,{ "pid":12345, "tid":5, "ts":1710129441254017, "dur":5957, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":5, "ts":1710129441260122, "dur":27235, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":5, "ts":1710129441287521, "dur":10278, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/level6" }}
+,{ "pid":12345, "tid":5, "ts":1710129441301121, "dur":173, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1710129441297940, "dur":3419, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/level2" }}
+,{ "pid":12345, "tid":5, "ts":1710129441301604, "dur":3570, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/level10" }}
+,{ "pid":12345, "tid":5, "ts":1710129441305341, "dur":15991, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1710129441321458, "dur":5835258, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1710129441039697, "dur":9852, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1710129441049553, "dur":2570, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1710129441052123, "dur":9131, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1710129441061283, "dur":224, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.15f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":6, "ts":1710129441061263, "dur":245, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/hayoo/Desktop/test5/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":6, "ts":1710129441063773, "dur":7233, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":6, "ts":1710129441071152, "dur":263, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.15f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1710129441071150, "dur":267, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/hayoo/Desktop/test5/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1710129441071538, "dur":2840, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1710129441074478, "dur":236, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/hayoo/Desktop/test5/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1710129441075217, "dur":2511, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1710129441077871, "dur":513, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.15f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":6, "ts":1710129441077867, "dur":519, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/hayoo/Desktop/test5/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1710129441078932, "dur":2927, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1710129441081992, "dur":297, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/hayoo/Desktop/test5/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1710129441082316, "dur":4067, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1710129441086512, "dur":601, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.15f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1710129441086505, "dur":610, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/hayoo/Desktop/test5/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1710129441087147, "dur":5137, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1710129441094326, "dur":7958, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710129441102432, "dur":9000, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710129441111646, "dur":6029, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710129441117841, "dur":5753, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710129441123744, "dur":6693, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710129441130655, "dur":7555, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710129441138361, "dur":2992, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710129441141564, "dur":8681, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/Unity.2D.PixelPerfect.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710129441150671, "dur":328, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1710129441151008, "dur":9043, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710129441160208, "dur":5000, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710129441165345, "dur":7691, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710129441173195, "dur":6402, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710129441179738, "dur":7961, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710129441187888, "dur":11807, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710129441199937, "dur":6767, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710129441206853, "dur":4382, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710129441211380, "dur":6613, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710129441218195, "dur":3038, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710129441221379, "dur":3515, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/sharedassets9.assets" }}
+,{ "pid":12345, "tid":6, "ts":1710129441225017, "dur":5218, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/sharedassets6.assets.resS" }}
+,{ "pid":12345, "tid":6, "ts":1710129441230581, "dur":14519, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/sharedassets4.resource" }}
+,{ "pid":12345, "tid":6, "ts":1710129441246282, "dur":1197, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1710129441247485, "dur":6336, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":6, "ts":1710129441253980, "dur":8280, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":6, "ts":1710129441262506, "dur":13058, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":6, "ts":1710129441275754, "dur":21932, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/resources.assets" }}
+,{ "pid":12345, "tid":6, "ts":1710129441297917, "dur":7351, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/level3" }}
+,{ "pid":12345, "tid":6, "ts":1710129441314610, "dur":75, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1710129441305477, "dur":9232, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":6, "ts":1710129441314912, "dur":5841775, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1710129441039753, "dur":9817, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1710129441049574, "dur":2690, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1710129441052265, "dur":8983, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1710129441061278, "dur":478, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1710129441084119, "dur":3219, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/app.info" }}
+,{ "pid":12345, "tid":7, "ts":1710129441087341, "dur":225, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/hayoo/Desktop/test5/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1710129441087596, "dur":4010, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1710129441091761, "dur":2135, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\WindowsPlayer.exe" }}
+,{ "pid":12345, "tid":7, "ts":1710129441091758, "dur":2140, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories.exe" }}
+,{ "pid":12345, "tid":7, "ts":1710129441093928, "dur":16228, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories.exe" }}
+,{ "pid":12345, "tid":7, "ts":1710129441110303, "dur":7062, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710129441117675, "dur":7219, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710129441125036, "dur":5548, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710129441130725, "dur":9568, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710129441140627, "dur":6988, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710129441147743, "dur":4074, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/Unity.RenderPipelines.Universal.Config.Runtime.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710129441152011, "dur":7475, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710129441164540, "dur":503, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1710129441159625, "dur":5445, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710129441165280, "dur":8693, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710129441174253, "dur":6991, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710129441181418, "dur":9659, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710129441191254, "dur":12137, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710129441203594, "dur":4411, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710129441208232, "dur":5420, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710129441213831, "dur":3711, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710129441217688, "dur":3219, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710129441221063, "dur":178, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.15f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710129441221061, "dur":181, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/hayoo/Desktop/test5/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710129441221260, "dur":83293, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710129441305005, "dur":6617, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/level0" }}
+,{ "pid":12345, "tid":7, "ts":1710129441311733, "dur":5845021, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1710129441039812, "dur":9767, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1710129441049580, "dur":2596, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1710129441052176, "dur":9076, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1710129441061792, "dur":286, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\hayoo\\Desktop\\CaseNumber0311\\CaseNumber0311\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":8, "ts":1710129441062083, "dur":201, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\hayoo\\Desktop\\CaseNumber0311\\CaseNumber0311\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.IK.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1710129441062286, "dur":932, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\hayoo\\Desktop\\CaseNumber0311\\CaseNumber0311\\Library\\Bee\\PlayerScriptAssemblies\\Unity.RenderPipelines.Core.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1710129441063221, "dur":260, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\hayoo\\Desktop\\CaseNumber0311\\CaseNumber0311\\Library\\Bee\\PlayerScriptAssemblies\\Unity.RenderPipelines.Universal.Config.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1710129441063484, "dur":843, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\hayoo\\Desktop\\CaseNumber0311\\CaseNumber0311\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":8, "ts":1710129441064330, "dur":247, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\hayoo\\Desktop\\CaseNumber0311\\CaseNumber0311\\Library\\Bee\\PlayerScriptAssemblies\\Unity.RenderPipelines.Core.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":8, "ts":1710129441064580, "dur":775, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\hayoo\\Desktop\\CaseNumber0311\\CaseNumber0311\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Collections.dll" }}
+,{ "pid":12345, "tid":8, "ts":1710129441065361, "dur":379, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\hayoo\\Desktop\\CaseNumber0311\\CaseNumber0311\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1710129441065743, "dur":230, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\hayoo\\Desktop\\CaseNumber0311\\CaseNumber0311\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.PixelPerfect.dll" }}
+,{ "pid":12345, "tid":8, "ts":1710129441065976, "dur":756, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\hayoo\\Desktop\\CaseNumber0311\\CaseNumber0311\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":8, "ts":1710129441066736, "dur":222, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\hayoo\\Desktop\\CaseNumber0311\\CaseNumber0311\\Library\\Bee\\PlayerScriptAssemblies\\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll" }}
+,{ "pid":12345, "tid":8, "ts":1710129441066961, "dur":1292, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\hayoo\\Desktop\\CaseNumber0311\\CaseNumber0311\\Library\\Bee\\PlayerScriptAssemblies\\Unity.RenderPipelines.Universal.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1710129441068256, "dur":732, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\hayoo\\Desktop\\CaseNumber0311\\CaseNumber0311\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Burst.dll" }}
+,{ "pid":12345, "tid":8, "ts":1710129441068993, "dur":1224, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\hayoo\\Desktop\\CaseNumber0311\\CaseNumber0311\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1710129441070220, "dur":574, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\hayoo\\Desktop\\CaseNumber0311\\CaseNumber0311\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1710129441070797, "dur":268, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\hayoo\\Desktop\\CaseNumber0311\\CaseNumber0311\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.Tilemap.Extras.dll" }}
+,{ "pid":12345, "tid":8, "ts":1710129441071068, "dur":586, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\hayoo\\Desktop\\CaseNumber0311\\CaseNumber0311\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":8, "ts":1710129441071656, "dur":235, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\hayoo\\Desktop\\CaseNumber0311\\CaseNumber0311\\Library\\Bee\\PlayerScriptAssemblies\\Unity.InternalAPIEngineBridge.001.dll" }}
+,{ "pid":12345, "tid":8, "ts":1710129441071894, "dur":411, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\hayoo\\Desktop\\CaseNumber0311\\CaseNumber0311\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1710129441072308, "dur":182, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\hayoo\\Desktop\\CaseNumber0311\\CaseNumber0311\\Library\\Bee\\PlayerScriptAssemblies\\Unity.RenderPipeline.Universal.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":8, "ts":1710129441072492, "dur":363, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\hayoo\\Desktop\\CaseNumber0311\\CaseNumber0311\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":8, "ts":1710129441072857, "dur":1337, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\hayoo\\Desktop\\CaseNumber0311\\CaseNumber0311\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":8, "ts":1710129441074200, "dur":245, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\hayoo\\Desktop\\CaseNumber0311\\CaseNumber0311\\Library\\Bee\\PlayerScriptAssemblies\\Unity.RenderPipelines.Universal.Shaders.dll" }}
+,{ "pid":12345, "tid":8, "ts":1710129441074447, "dur":273, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\hayoo\\Desktop\\CaseNumber0311\\CaseNumber0311\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":8, "ts":1710129441074871, "dur":126, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"ProjectSettings\\BurstAotSettings_StandaloneWindows.json" }}
+,{ "pid":12345, "tid":8, "ts":1710129441075131, "dur":364, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\hayoo\\Desktop\\CaseNumber0311\\CaseNumber0311\\Library\\PackageCache\\com.unity.burst@1.8.11\\.Runtime\\bcl.exe" }}
+,{ "pid":12345, "tid":8, "ts":1710129441061262, "dur":14235, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"GenerateNativePluginsForAssemblies Library/Bee/artifacts/WinPlayerBuildProgram/AsyncPluginsFromLinker" }}
+,{ "pid":12345, "tid":8, "ts":1710129441076221, "dur":84, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1710129447141145, "dur":63, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1710129441083588, "dur":6057649, "ph":"X", "name": "GenerateNativePluginsForAssemblies",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/AsyncPluginsFromLinker" }}
+,{ "pid":12345, "tid":8, "ts":1710129447153095, "dur":68, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\AsyncPluginsFromLinker\\x86_64\\lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":8, "ts":1710129447153093, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":8, "ts":1710129447154257, "dur":2218, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/hayoo/Desktop/test5/CaseNumber0311_Memories_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":0, "ts":1710129447175119, "dur":3271, "ph":"X", "name": "ProfilerWriteOutput" }
+,
