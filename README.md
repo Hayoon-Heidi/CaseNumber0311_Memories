@@ -1,4 +1,5 @@
 Case Number Soju Game (Windows 64bit)
+
 📝 2D top-down pixel.
 
 📆 2024 March released.
