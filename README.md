@@ -1,4 +1,4 @@
-Case Number Soju Game (Windows 64bit)
+Case Number 0311 Memories Game (Windows 64bit)
 
 📝 2D top-down pixel.
 
